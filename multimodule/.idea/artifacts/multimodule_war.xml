@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="multimodule:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="multimodule-1.0.war">
+      <element id="artifact" artifact-name="multimodule:war exploded" />
+    </root>
+  </artifact>
+</component>
